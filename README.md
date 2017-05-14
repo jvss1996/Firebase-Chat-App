@@ -10,5 +10,12 @@ FriendlyChat is an app that allows users to send and receive text and photos in 
 
 Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
 
+# Screenshots
+## Login Screen
+<img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-190928.png" width="215" height="400">          <img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191040.png" width="215" height="400">          <img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191116.png" width="215" height="400">
+
+## Main Screen
+<img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191139.png" width="215" height="400">         <img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191220.png" width="215" height="400">          <img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191231.png" width="215" height="400">          <img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191336.png" width="215" height="400">          <img src= "https://github.com/jvss1996/Firebase-Chat-App/blob/master/device-2017-05-13-191716.png" width="215" height="400">
+
 ## License
 See [LICENSE](LICENSE)
